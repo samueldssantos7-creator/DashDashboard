@@ -1,7 +1,8 @@
-# No seu projeto, edite requirements.txt para ter APENAS:
 dash==2.14.0
-pandas==2.1.0
+pandas==1.5.3
 plotly==5.15.0
-requests==2.31.0
-gunicorn==21.2.0
-flask==2.3.0
+requests==2.28.2
+gunicorn==20.1.0
+flask==2.2.5
+numpy==1.24.3
+
